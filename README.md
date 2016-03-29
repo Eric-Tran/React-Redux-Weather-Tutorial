@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# React Weather Tutorial
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Tutorial project walkthrough by Stephen Grider ( https://github.com/StephenGrider ).
 
-###Getting Started###
+5 day weather forecasting app using OpenWeatherMap API and GoogleMaps API. See charts and weather data (temperature, pressure, humidity) of your selected cities along with a map of the city. Along with completing the tutorial, I have commented on the most useful parts of it that helped me learn React.
 
-There are two methods for getting started with this repo.
+Technologies:
+React
+Redux
+react-sparklines
+react-google-maps
+react-axios
+react-promise
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+API:
+OpenWeatherMap API
+GoogleMaps API
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```

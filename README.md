@@ -12,7 +12,7 @@ react-google-maps<br>
 react-axios<br>
 react-promise<br>
 
-API:
+API:<br>
 OpenWeatherMap API<br>
 GoogleMaps API
 
